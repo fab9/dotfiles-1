@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+shift+t"], "command": "expand_selection", "args": {"to": "tag"} }
+
+]
